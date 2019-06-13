@@ -1,0 +1,36 @@
+.container {
+    width: 960px;
+    height: 555px;
+    background-image: url(../images/dark-honeycomb.png);
+    margin: 0 auto;
+    margin-top: 75px;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.content {
+    width: 764px;
+    background-color: white;
+    height: 400px;
+    margin-left: 100px;
+    position: relative;
+    top: 40px;
+    border: 1px solid;
+}
+
+img {
+    float: left;
+}
+
+footer {
+    margin: 0 auto;
+    width: 960px;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    line-height: 40px;
+}
