@@ -39,10 +39,10 @@ header {
 #name-box {
     position: absolute; 
     bottom: 0;
-    left: 30%; 
-    height: 12vh; 
+    left: 25%; 
+    height: 100%; 
     background-color: #4aaaa5; 
-    width: 10vw; 
+    width: 14vw; 
     text-align:center;
 }
 
@@ -50,7 +50,7 @@ header {
     font-size: 32px; 
     color: white; 
     position: relative; 
-    top: 25%; 
+    top: -32%; 
     left: 0; 
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -58,9 +58,9 @@ header {
 #nav-menu {
     position: absolute; 
     bottom: 0;
-    left: 56%; 
-    height: 12vh; 
-    width: 14vw;
+    left: 59%; 
+    height: 100%; 
+    width: 25vw;
 }
 
 #content-div {
